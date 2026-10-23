@@ -1,0 +1,6 @@
+{
+  "name": "Credence — Machine Learning Loan Risk Prediction System",
+  "description": "Production-grade loan default risk prediction system with exploratory data analysis, multi-model evaluation, feature engineering, and interactive underwriting inference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
